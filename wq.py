@@ -1,8 +1,7 @@
 import requests
 import pandas as pd
 import numpy as np
-username = "duongminhhai30052003@gmail.com"
-password = "haianh123"
+
 
 # Create a session to persistently store the headers
 s = requests.Session()
